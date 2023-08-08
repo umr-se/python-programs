@@ -1,0 +1,11 @@
+age,compition,type,profit
+old,yes,sw,down
+old,no,sw,down
+old,no,hw,down
+mid,yes,sw,down
+mid,yes,hw,up
+mid,no,hw,up
+mid,no,sw,up
+new,yes,sw,up
+new,no,hw,up
+new,no,sw,up
